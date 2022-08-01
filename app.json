@@ -1,5 +1,5 @@
 {
-  "name": "Zero-Two-Md",
+  "name": "Zero-Two-Botto",
   "description": "A Whatsapp md bot build with nodejs",
   "repository": "https://github.com/sampandey001/Zero-Two-Md",
   "logo": "https://user-images.githubusercontent.com/104565822/177012232-97866d97-0798-4ca2-9e56-5d0a2413642b.png",
@@ -9,19 +9,19 @@
 "env": {
   "BOT_NAME": {
   "description": "Name of your bot",
-   "value": "Zero-Two-Botto"
+   "value": "𝖅𝖊𝖗𝖔-𝕿𝖜𝖔-𝕭𝖔𝖙𝖙𝖔"
   },
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Ikshwaku Pandey"
+      "value": "*Empty-Sama*"
   },
   "BOT_OWNER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "919628516236"
+       "value": "27729378630"
   },
   "OPENAI_API_KEY": {
     "description": "Put your OPENAI key here.If you don't have just go on beta.openai.com/signup and get your key.",
-       "value": "Paste here"
+       "value": "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"
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required)"
@@ -36,7 +36,7 @@
   },
   "SPACK_NAME": {
     "description": "Put Your Sticker Pack Name",
-     "value": "Zero-Two",
+     "value": "Yours-sincerely",
      "required": false
   }
 },
